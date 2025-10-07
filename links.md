@@ -21,3 +21,15 @@
 | 16 |  | [КиберПушкин](http://www.teterin.ru/pushkin/) |
 | 17 |  | [Нейросеть написала колонку для The Guardian](https://knife.media/the-guardian-robot/) |
 | 18 |  | [Порождающие грамматики Хомского](https://habr.com/ru/articles/177701/) |
+
+-----
+
+|  |  |  |
+| -- | -- | -- |
+| 01 | finam | [Искусственный интеллект научит деградировать](https://www.finam.ru/publications/item/iskusstvennyy-intellekt-nauchit-degradirovat-20241102-1649/) |
+| 02 | vbr? | [Из-за нейросетей люди деградируют](https://www.vbr.ru/banki/novosti/2024/11/01/izza-neirosetei-ludi-degradiryut/) |
+| 03 |  | [AI и деградация мышления: тревожные выводы из исследования MIT](https://welcometoma.com/harmful-ai/) |
+| 04 |  | [ИИ поедает сам себя](https://incrussia.ru/understand/ii-poedaet-sam-sebya/) |
+| 05 |  | [Лоуренс Барсалу. Системы перцептивных символов](https://www.psychology-online.net/articles/doc-1752.html) |
+
+
