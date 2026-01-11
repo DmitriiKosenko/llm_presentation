@@ -1,0 +1,86 @@
+
+Типы источников:
+--------------------------------------------------------------------------------
+	манускрипт
+	статья
+	книга
+	пресса
+	article
+	НПА
+
+
+--------------------------------------------------------------------------------
+SRC-001
+	Влияние искусственного интеллекта на когнитивную сферу человека в контексте ценностно-мировоззренческого анализа
+		- Манускрипт
+		- https://cyberleninka.ru/article/n/vliyanie-iskusstvennogo-intellekta-na-kognitivnuyu-sferu-cheloveka-v-kontekste-tsennostno-mirovozzrencheskogo-analiza
+		- связь ценностей человека и влияние ИИ на него. Разница между информацией и знаниями. Постулат о том, что для творческой деятельности необходима базовая организация сознания
+
+
+SRC-002
+	Роль когнитивной психологии в системе научных знаний о человеке
+		- Статья
+		- https://cyberleninka.ru/article/n/rol-kognitivnoy-psihologii-v-sisteme-nauchnyh-znaniy-o-cheloveke/viewer
+		- Определения основных психических процессов
+
+
+SRC-003
+	Cognitive Sustainability in the Age of AI. A Philosophical Framework for Understanding Competency Erosion and Cognitive Stratification in Human-AI Systems
+		- Article
+		- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786957
+		-
+
+
+SRC-004
+	Когнитивная психология
+		- Книга
+		- https://cppm.kuro-mo.ru/images/%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%A1%D0%BE%D0%BB%D1%81%D0%BE_2006_6-%D0%B5_%D0%B8%D0%B7%D0%B4_-589%D1%81.pdf
+		- связь между работой мозга и когнитивными процессами
+
+
+SRC-005
+	Основные индикаторы когнитивных компетенций
+		- Статья
+		- https://cyberleninka.ru/article/n/osnovnye-indikatory-kognitivnyh-kompetentsiy/viewer
+		- про когнитивные компетенции
+
+
+SRC-006
+	Формирование профессиональных компетенций современного разработчика ПО
+		- Статья
+		- https://cyberleninka.ru/article/n/formirovanie-professionalnyh-kompetentsiy-sovremennogo-razrabotchika-po/viewer
+		- 
+
+
+SRC-007
+	Специфика формирования профессиональных компетенций специалистов IT-сферы
+		- Статья
+		- https://npsyj.ru/upload/iblock/446/tv6rj31v6ws6zi415uagv3iergi18dqp/14_Karpov_-Karpov_-Prisyazhnyuk_npj_4_2024_201_214.pdf
+		- 
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
